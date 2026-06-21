@@ -4,7 +4,7 @@ Electrical Engineer focused on computer vision, sensor fusion, and embedded ML s
 
 Currently pursuing an M.Sc. at UFRGS (PPGEE) on object orientation estimation from RGB images, combining classical CV features and machine learning approaches.
 
-5 years of experience in defense, transportation, and energy, building production-grade systems and leading engineering teams across international programs.
+5 years of experience in defense, transportation, and energy sectors, building production-grade systems and leading engineering teams across international programs.
 
 ---
 
